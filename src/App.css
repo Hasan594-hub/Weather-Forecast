@@ -1,0 +1,38 @@
+
+.main-bg {
+  height: 100vh;
+  width: auto;
+  background-color: rgb(101, 207, 207);
+}
+
+input {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10%;
+  font-style: italic;
+}
+
+button{
+  padding:10px 15px;
+  cursor:pointer;
+  margin-right: 20px;
+  font-style: italic;
+}
+
+.weather-box{
+  margin-top:0px;
+  background:rgb(213, 213, 213);
+  padding:20px;
+  display:inline-block;
+  border-radius:10px;
+  font-style: italic;
+}
+
+.heading {
+  text-decoration: underline;
+}
+
+label {
+  font-style: italic;
+  font-size: large;
+}
